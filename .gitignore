@@ -1,0 +1,10 @@
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+#Virtual-Environment
+venv
+
+raw data

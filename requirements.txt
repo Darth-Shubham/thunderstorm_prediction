@@ -1,0 +1,17 @@
+ipykernel
+numpy
+pandas
+imbalanced-learn
+scikit-learn
+seaborn
+matplotlib
+xgboost
+mlflow
+dagshub
+fastapi
+uvicorn[standard]
+pydantic
+joblib
+streamlit
+python-multipart
+gunicorn
