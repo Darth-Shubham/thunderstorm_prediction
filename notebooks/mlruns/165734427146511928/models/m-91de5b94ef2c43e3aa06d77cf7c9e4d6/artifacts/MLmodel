@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/Shubham/Documents/Python%20Scripts/KrishNaik%20Projects/Beginner/thunderstorm_forcasting/notebooks/mlruns/165734427146511928/models/m-91de5b94ef2c43e3aa06d77cf7c9e4d6/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+mlflow_version: 3.8.1
+model_id: m-91de5b94ef2c43e3aa06d77cf7c9e4d6
+model_size_bytes: 987
+model_uuid: m-91de5b94ef2c43e3aa06d77cf7c9e4d6
+prompts: null
+run_id: 8cf59f11e35b49dcb91727bff2ce8115
+utc_time_created: '2026-02-03 18:09:30.684355'

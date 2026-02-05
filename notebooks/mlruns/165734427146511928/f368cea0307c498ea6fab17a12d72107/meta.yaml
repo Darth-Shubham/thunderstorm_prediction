@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Shubham/Documents/Python%20Scripts/KrishNaik%20Projects/Beginner/thunderstorm_forcasting/notebooks/mlruns/165734427146511928/f368cea0307c498ea6fab17a12d72107/artifacts
+end_time: 1770142169813
+entry_point_name: ''
+experiment_id: '165734427146511928'
+lifecycle_stage: active
+run_id: f368cea0307c498ea6fab17a12d72107
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770142116068
+status: 3
+tags: []
+user_id: Shubham

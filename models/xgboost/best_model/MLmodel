@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/Shubham/Documents/Python%20Scripts/KrishNaik%20Projects/Beginner/thunderstorm_forcasting/notebooks/mlruns/165734427146511928/models/m-0ac00d7b668d43cbad9524a0829f9e91/artifacts
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.12.4
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: ubj
+    xgb_version: 3.1.3
+mlflow_version: 3.8.1
+model_id: m-0ac00d7b668d43cbad9524a0829f9e91
+model_size_bytes: 345901
+model_uuid: m-0ac00d7b668d43cbad9524a0829f9e91
+prompts: null
+run_id: f368cea0307c498ea6fab17a12d72107
+utc_time_created: '2026-02-03 18:09:18.827028'
